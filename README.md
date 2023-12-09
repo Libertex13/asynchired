@@ -3,6 +3,8 @@
 ## Overview
 
 AsyncHired is a cutting-edge job search application specifically tailored for the tech industry. Developed by a team of skilled professionals, this app stands out by aggregating job listings from various websites, presenting them in a user-friendly interface.
+You can check out our promo video here:
+https://www.youtube.com/watch?v=WbZVSTTc-KM&ab_channel=Raijin
 
 ### Creators
 
